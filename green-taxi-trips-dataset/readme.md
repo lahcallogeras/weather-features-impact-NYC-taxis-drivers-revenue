@@ -1,4 +1,4 @@
-<b>NYC Green Taxi Trips Dataset<b/>
+<b>NYC Green Taxi Trips Dataset</b>
 
 NYC original green taxi trips dataset publicly released by TLC and downloaded to be used on this study [here](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
 
